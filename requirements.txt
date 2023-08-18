@@ -1,0 +1,6 @@
+Flask==2.2.5
+Flask_WTF==1.1.1
+opencv_python==4.8.0.74
+ultralytics==8.0.134
+Werkzeug==2.2.3
+WTForms==3.0.1
